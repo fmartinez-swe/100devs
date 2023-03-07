@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+header, footer{
+    clear: both;
+    border: 1px solid black;
+    height: 100px;
+}
+.top{
+    height: 200px;
+    border: 1px solid black;
+}
+.bottom1{
+    float: left;
+    height: 300px;
+    width: 35%;
+    border: 1px solid black;
+}
+.bottom2{
+    float: left;
+    height: 300px;
+    width: 65%;
+    border: 1px solid black;
+}
