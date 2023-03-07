@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+header, footer{
+    border: 1px solid black;
+    clear: both;
+}
+.small{
+    width: 15%;
+    float: left;
+    border: 1px solid black;
+    height: 400px;
+}
+.big{
+    width: 55%;
+    float: left;
+    border: 1px solid black;
+    height: 400px;
+}
